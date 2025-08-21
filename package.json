@@ -1,21 +1,23 @@
 {
-  "name": "kiro-theme",
-  "displayName": "Kiro Theme",
-  "description": "Colour theme that matches Kiro",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.103.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Kiro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Kiro-color-theme.json"
-      }
-    ]
-  }
+    "name": "kiro-theme",
+    "displayName": "Kiro Theme",
+    "description": "Colour theme that matches Kiro",
+    "version": "0.0.1",
+    "publisher": "mkdesilva",
+    "engines": {
+        "vscode": "^1.103.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kiro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kiro-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
 }
