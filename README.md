@@ -4,7 +4,7 @@ A beautiful dark color theme for Visual Studio Code that provides excellent cont
 
 ## Screenshot
 
-![Kiro Dark Theme Screenshot](screenshot.png)
+![Kiro Dark Theme Screenshot](https://github.com/user-attachments/assets/0fe58b8f-6511-4cf7-a4db-37b08c41fa28)
 
 _Screenshot showing the Kiro Dark Theme applied to a TypeScript file_
 
